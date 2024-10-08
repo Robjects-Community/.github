@@ -32,7 +32,7 @@ Stay up-to-date with the latest news and updates by following us on:
 - [Patreon](https://patreon.com/robjects)
 
   
-We look forward to building amazing things together!
+
 
 
 Thank you for being part of the **Robjects-Community**! Let's create something incredible together.
